@@ -11,7 +11,7 @@ mount(function () {
 ?>
 
 <div>
-    <h1>元の値</h1>
+    <h1 class="text-9xl font-red my-7">元の値</h1>
     <p>
         {{ $word }}
     <h1>小文字に変換</h1>
